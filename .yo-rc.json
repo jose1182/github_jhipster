@@ -43,7 +43,7 @@
     "clientPackageManager": "npm",
     "enableGradleEnterprise": false,
     "languages": ["en", "fr"],
-    "lastLiquibaseTimestamp": 1645655086000,
-    "entities": ["Job"]
+    "lastLiquibaseTimestamp": 1645655822000,
+    "entities": ["Job", "Sales"]
   }
 }
